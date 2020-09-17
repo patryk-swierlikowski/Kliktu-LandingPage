@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="231.8px" viewBox="0 0 800 231.8" enable-background="new 0 0 800 231.8" xml:space="preserve">
+<g>
+	<title>background</title>
+	<rect id="canvas_background" x="-1" y="-1" fill="#FFFFFF" width="802" height="602"/>
+	<g id="canvasGrid" display="none">
+		<rect display="inline" fill="none" width="800" height="600"/>
+	</g>
+</g>
+<g>
+	<title>Layer 1</title>
+	<path id="svg_1" fill="#F0FAFF" d="M1.75,210.626c0,0-42-13.363-41.75-12.813c-0.25-0.55-25.25-197.05,22.75-193.117
+		c48,3.929,107,11.003,186,13.36c79,2.359,88-14.932,168-14.146c80,0.785,71,14.146,151,13.36c80-0.787,63-9.434,135-9.434
+		s99,8.646,149,12.576c50,3.93,108,4.717,107.25,5.266c0.75-0.547,2.75,112.635,2,113.185c0.75-0.552,14.75,61.543-26.25,63.114
+		c-41,1.573-65,16.508-119,14.937c-54-1.572-90-9.433-146-11.004c-56-1.572-85,14.147-126,14.147s-93-14.147-162-13.362
+		c-69,0.786-85,21.223-148,21.223S1.75,210.626,1.75,210.626L1.75,210.626z"/>
+</g>
+</svg>
